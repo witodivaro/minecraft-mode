@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "divaro:block/divaro_block" }
+  }
+}
